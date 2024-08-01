@@ -19,7 +19,7 @@ namespace todolist
             InitializeComponent();
         }
 
-       private string HashPassword(string password)
+       public static string HashPassword(string password)
         {
             using(SHA256 sha256Hash = SHA256.Create())
             {
@@ -71,6 +71,11 @@ namespace todolist
                 }
             }
 
+
+        }
+
+        private void RegisterForm_Load(object sender, EventArgs e)
+        {
 
         }
     }

@@ -89,6 +89,7 @@
             this.Controls.Add(this.txtRegisterUsername);
             this.Name = "RegisterForm";
             this.Text = "RegisterForm";
+            this.Load += new System.EventHandler(this.RegisterForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

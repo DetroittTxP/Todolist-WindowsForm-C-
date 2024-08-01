@@ -48,9 +48,12 @@
             // 
             // todogrid
             // 
+            this.todogrid.AllowUserToAddRows = false;
+            this.todogrid.AllowUserToDeleteRows = false;
             this.todogrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.todogrid.Location = new System.Drawing.Point(147, 40);
             this.todogrid.Name = "todogrid";
+            this.todogrid.ReadOnly = true;
             this.todogrid.Size = new System.Drawing.Size(488, 164);
             this.todogrid.TabIndex = 1;
             this.todogrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.todogrid_CellContentClick);

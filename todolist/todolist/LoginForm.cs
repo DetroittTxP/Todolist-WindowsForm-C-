@@ -24,6 +24,7 @@ namespace todolist
         {
             string username = txtUsername.Text;
             string password = txtPassword.Text;
+            string hashed = RegisterForm.HashPassword(password);
 
             try
             {
@@ -34,7 +35,7 @@ namespace todolist
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
                         cmd.Parameters.AddWithValue("@username", username);
-                        cmd.Parameters.AddWithValue("@password", password);
+                        cmd.Parameters.AddWithValue("@password", hashed);
                        
                         SqlDataAdapter da = new SqlDataAdapter(cmd);
 
