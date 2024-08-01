@@ -66,5 +66,12 @@ namespace todolist
                 MessageBox.Show("An error occurred: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void lblRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            RegisterForm rForm = new RegisterForm();
+            rForm.Show();
+            this.Hide();
+        }
     }
 }
