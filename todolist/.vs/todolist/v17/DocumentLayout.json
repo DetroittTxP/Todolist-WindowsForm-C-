@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|c:\\users\\detroit\\documents\\github\\todolist-windowsform-c-\\todolist\\todolist\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|c:\\users\\detroit\\documents\\github\\todolist-windowsform-c-\\todolist\\todolist\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|c:\\users\\detroit\\documents\\github\\todolist-windowsform-c-\\todolist\\todolist\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98E61ABA-6BAD-4C81-8A6F-54F8147FFAAD}|todolist\\todolist.csproj|solutionrelative:todolist\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "todolist\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\RegisterForm.cs",
-              "RelativeToolTip": "todolist\\RegisterForm.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvxEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:25:31.114Z",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\App.config",
+              "RelativeDocumentMoniker": "todolist\\App.config",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\App.config",
+              "RelativeToolTip": "todolist\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-01T10:36:27.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "todolist\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "todolist\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:25:29.247Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\LoginForm.cs",
               "RelativeDocumentMoniker": "todolist\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\LoginForm.cs",
               "RelativeToolTip": "todolist\\LoginForm.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T09:13:51.441Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\LoginForm.cs",
-              "RelativeDocumentMoniker": "todolist\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\LoginForm.cs [Design]",
-              "RelativeToolTip": "todolist\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:13:16.54Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\Main.cs",
-              "RelativeDocumentMoniker": "todolist\\Main.cs",
-              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Todolist-WindowsForm-C-\\todolist\\todolist\\Main.cs [Design]",
-              "RelativeToolTip": "todolist\\Main.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:12:45.95Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

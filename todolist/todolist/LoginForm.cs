@@ -2,6 +2,8 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using System.Configuration;
+
 
 namespace todolist
 {
@@ -18,7 +20,7 @@ namespace todolist
 
         public static string loggedUsername = "";
         public static int loggedId = -1;
-        public static string conn_str = "Server=DESKTOP-E8F1SPO\\SQLEXPRESS; Database=Todolist; Trusted_Connection=True; TrustServerCertificate=True";
+        public static string conn_str = "Server=DESKTOP-E8F1SPO\\SQLEXPRESS;Database=Todolist;Trusted_Connection=True;TrustServerCertificate=True";
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
