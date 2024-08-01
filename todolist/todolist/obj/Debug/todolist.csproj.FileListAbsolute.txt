@@ -1,0 +1,11 @@
+C:\Users\Detroit\source\repos\todolist\todolist\bin\Debug\todolist.exe.config
+C:\Users\Detroit\source\repos\todolist\todolist\bin\Debug\todolist.exe
+C:\Users\Detroit\source\repos\todolist\todolist\bin\Debug\todolist.pdb
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.csproj.AssemblyReference.cache
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.LoginForm.resources
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.Main.resources
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.Properties.Resources.resources
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.csproj.GenerateResource.cache
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.exe
+C:\Users\Detroit\source\repos\todolist\todolist\obj\Debug\todolist.pdb
